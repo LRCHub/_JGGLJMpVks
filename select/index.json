@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "TV",
+  "base_artist": "Billie Eilish",
+  "createdAt": "2026-03-01T05:09:03.352071Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sobredosis de TV (Remix)",
+      "artist": "Soda Stereo",
+      "has_synced": false,
+      "path": "select/01_Sobredosis_de_TV_(Remix)_Soda_Stereo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "09 - Sobredosis De Tv (Remix)",
+      "artist": "Soda Stereo",
+      "has_synced": true,
+      "path": "select/02_09_-_Sobredosis_De_Tv_(Remix)_Soda_Stereo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Banned from TV",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/03_Banned_from_TV_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Banned From TV",
+      "artist": "Lil Wayne",
+      "has_synced": false,
+      "path": "select/04_Banned_From_TV_Lil_Wayne.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cry Bb (produced by Aeirs TV)",
+      "artist": "Le1f",
+      "has_synced": false,
+      "path": "select/05_Cry_Bb_(produced_by_Aeirs_TV)_Le1f.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Turn the TV Off",
+      "artist": "Love Is All",
+      "has_synced": false,
+      "path": "select/06_Turn_the_TV_Off_Love_Is_All.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Zankyosanka (TV version)",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/07_Zankyosanka_(TV_version)_Aimer.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "There Ain't Shit on TV Tonight",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/08_There_Ain't_Shit_on_TV_Tonight_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Sun Always Shines On TV",
+      "artist": "Nadja",
+      "has_synced": false,
+      "path": "select/09_The_Sun_Always_Shines_On_TV_Nadja.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Coffee & TV",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/10_Coffee_&_TV_Blur.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beauty on the TV-Screen",
+      "artist": "Lou Bega",
+      "has_synced": false,
+      "path": "select/11_Beauty_on_the_TV-Screen_Lou_Bega.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Too Much TV",
+      "artist": "Planet Funk",
+      "has_synced": false,
+      "path": "select/12_Too_Much_TV_Planet_Funk.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "TV",
+      "artist": "Alex G",
+      "has_synced": true,
+      "path": "select/13_TV_Alex_G.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cable TV",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": true,
+      "path": "select/14_Cable_TV_Weird_Al__Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Frank's 2000\" TV",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": false,
+      "path": "select/15_Frank's_2000__TV_Weird_Al__Yankovic.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dutch TV",
+      "artist": "Saint Etienne",
+      "has_synced": true,
+      "path": "select/16_Dutch_TV_Saint_Etienne.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "On TV",
+      "artist": "The Buggles",
+      "has_synced": false,
+      "path": "select/17_On_TV_The_Buggles.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "TV Dinners",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/18_TV_Dinners_Robert_Palmer.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TV",
+      "artist": "ビリー・アイリッシュ",
+      "has_synced": false,
+      "path": "select/pl_01_TV_ビリー・アイリッシュ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "TV",
+      "artist": "ビリー・アイリッシュ",
+      "has_synced": false,
+      "path": "select/pl_02_TV_ビリー・アイリッシュ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "TV",
+      "artist": "ビリー・アイリッシュ",
+      "has_synced": false,
+      "path": "select/pl_03_TV_ビリー・アイリッシュ.txt"
+    }
+  ]
+}
